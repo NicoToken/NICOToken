@@ -1,5 +1,5 @@
 Nico Token Run on Terra Blockchain 
-
+![image.png]( {https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png} )
 
 ```bash
 Real dreams are dreams that dont let you sleep
