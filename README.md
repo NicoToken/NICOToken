@@ -11,21 +11,21 @@ Enterprise Contracts
 https://github.com/terra-money/enterprise-contracts
 
 ```
-Nico Dao Staking addrees
+Nico Dao Staking address
 
 ```bash
 
 TBA
 
 ```
-Nico Distributor addrees
+Nico Distributor address
 
 ```bash
 
 TBA
 
 ```
-Nico Token addrees
+Nico Token address
 
 ```bash
 
