@@ -1,4 +1,4 @@
-#Nico  Build to meme Token Run on Terra Blockchain 
+#Nico Token Run on Terra Blockchain 
 
 
 ```bash
