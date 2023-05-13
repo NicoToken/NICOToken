@@ -41,10 +41,10 @@ https://github.com/terra-money/enterprise-app
 
 ```
 
-Nico telegram 
+Nico telegram channel
 ```bash
 
-TBA
+https://t.me/nicotalk1201
 
 ```
 
