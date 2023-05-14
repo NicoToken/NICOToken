@@ -11,9 +11,9 @@ Real dreams are dreams that dont let you sleep
 
 ### Contract Address  (Terra mainnet)
 
-| Contract            | Address                                                                                                                                   |
+| Contract            | Address   |
 
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------- | --------- |
 
 | Nico Dao Vault           | [`
 
@@ -25,8 +25,7 @@ terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u
 
 | Nico Token     | [`terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3`](https://terrasco.pe/mainnet/address/terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3) |
 
-| Nico-Axlusdt Pair   | [`TBA`](TBA) |
-
+| Nico-Axlusdt Pair   | [`TBA`]() |
 
 
 Enterprise Contracts Source code
