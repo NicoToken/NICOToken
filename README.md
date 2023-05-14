@@ -1,4 +1,4 @@
-### Nico The Fox Run on Terra Blockchain 
+### 'Nico' Run on Terra Blockchain 
 ![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png)
 
 ### Roadmap
