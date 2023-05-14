@@ -2,8 +2,17 @@
 ![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png)
 ### Nico Quote
 ```html
-(
-Real dreams are dreams that dont let you sleep )
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Real Dreams</title>
+</head>
+<body>
+  <blockquote>
+    <p>Real dreams are dreams that don't let you sleep</p>
+  </blockquote>
+</body>
+</html>
 
 ```
 
