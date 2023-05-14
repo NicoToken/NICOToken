@@ -1,7 +1,7 @@
 ### 'Nico' Run on Terra Blockchain 
 ![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png)
-### Nico Quote  
-![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png)
+### Nico Quotes  
+![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/NicoQuotes/Nicoquote.jpg)
 
 
 ### Roadmap
