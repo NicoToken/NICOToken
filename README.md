@@ -6,10 +6,18 @@
 <html>
 <head>
   <title>Real Dreams</title>
+  <style>
+    .blinking-text {
+      text-transform: uppercase;
+      background: linear-gradient(45deg, gold, #00ffcc);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  </style>
 </head>
 <body>
   <blockquote>
-    <p>Real dreams are dreams that don't let you sleep</p>
+    <p><span class="blinking-text">Real dreams are dreams that don't let you sleep</span></p>
   </blockquote>
 </body>
 </html>
