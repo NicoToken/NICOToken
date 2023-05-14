@@ -1,6 +1,6 @@
 ### 'Nico' Run on Terra Blockchain 
 ![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png)
-### Nico Quote
+### Nico Quote Code 
 ```html
 <!DOCTYPE html>
 <html>
