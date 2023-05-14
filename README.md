@@ -19,34 +19,16 @@ Real dreams are dreams that dont let you sleep
 | Nico-Axlusdt Pair   | [`tbd`]() |
 
 
-Enterprise Contracts Source code
 
-```bash
 
+
+| INFO           | Link   |
+| ------------------- | --------- |
+| Enterprise Contracts Source code           | [`Click Here`](
 https://github.com/terra-money/enterprise-contracts
-
-```
-
-
-Enterprise Nico Dao WebApp
-```bash
-
+) |
+| WebApp DAO        | [`Click Here`](
 https://enterprise.money/dao/terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u/staking
-
-```
-
-Nico telegram channel
-```bash
-
-https://t.me/nicotalk1201
-
-```
-
-Nico twitter
-
-```bash
-
-TBA
-
-```
-
+) |
+| Nico telegram channel    | [`Click Here`](https://t.me/nicotalk1201) |
+| Nico twitter | [`tbd`]() |
