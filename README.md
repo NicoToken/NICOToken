@@ -1,12 +1,17 @@
 ### 'Nico' Run on Terra Blockchain 
 ![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/asset/Nicologo.png)
+### Nico Quote
+```html
+(
+Real dreams are dreams that dont let you sleep )
+
+```
+
 
 ### Roadmap
 ![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/whitepaper/Whitepaper-nico.jpg)
 
-```bash
-Real dreams are dreams that dont let you sleep
-```
+
 
 
 ### Mainnet Terra (phoenix-1)
@@ -22,6 +27,7 @@ Real dreams are dreams that dont let you sleep
 
 
 ### More Info
+
 | INFO                | Link         |
 | ------------------- | ---------    |
 | Enterprise Contracts Source code                           | [`ClickHere`](https://github.com/terra-money/enterprise-contracts) |
