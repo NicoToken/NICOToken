@@ -15,7 +15,7 @@ Real dreams are dreams that dont let you sleep
 
 | ------------------- | --------- |
 
-| Nico Dao Vault           | [`terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u`](https://terrasco.pe/mainnet/address/terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u) |
+| Nico-Dao Vault           | [`terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u`](https://terrasco.pe/mainnet/address/terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u) |
 
 | Nico Distributor         | [`terra1s5zft8tgddtpgqhlauyl5lt2vre9euu4exg37rkug2dv4l7leygqsvj79g`](https://terrasco.pe/mainnet/address/terra1s5zft8tgddtpgqhlauyl5lt2vre9euu4exg37rkug2dv4l7leygqsvj79g) |
 
