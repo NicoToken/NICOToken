@@ -5,7 +5,7 @@
 
 
 ### Roadmap
-![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/whitepaper/Whitepaper-nico.jpg)
+![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/whitepaper/Roadmap.jpg)
 
 
 
