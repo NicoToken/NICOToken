@@ -27,6 +27,6 @@
 | INFO                | Link         |
 | ------------------- | ---------    |
 | Enterprise Contracts Source code                           | [`ClickHere`](https://github.com/terra-money/enterprise-contracts) |
-| WebApp DAO                            | [`ClickHere`](https://enterprise.money/dao/terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u/staking) |
+| WebApp NICO DAO                            | [`ClickHere`](https://nicodao.tech) |
 | Nico telegram channel                           | [`ClickHere`](https://t.me/nicotalk1201) |
 | Nico twitter                           | [`Clickhere`](https://twitter.com/NICOmoneyDAO?t=H3O9Z1JflwjdzBmxTy9DlA&s=09) |
