@@ -8,16 +8,14 @@
 ![image.png](https://raw.githubusercontent.com/NicoToken/NICOToken/main/whitepaper/Roadmap.jpg)
 
 
-
-
 ### Mainnet Terra (phoenix-1)
 
-| Conntrat            | Address   |
-| ------------------- | --------- |
-| Nico-Dao Vault      |[`terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u`](https://terrasco.pe/mainnet/address/terra1vmaggjxf4u3ft5upz3e9wuwu9msl34szuept4mpjwtnud4l65eaqvxyh5u)        |
+| Conntrat| Address   |
+| ---------------     | ------|
+| Nico-Dao Vault      |[`terra1rargvklgrh3g6950akvrz4pr8vcng2dhj7yt3p`](https://terrasco.pe/mainnet/address/terra1rargvklgrh3g6950akvrz4pr8vcng2dhj7yt3p)        |
 | Nico Distributor    | [`terra1s5zft8tgddtpgqhlauyl5lt2vre9euu4exg37rkug2dv4l7leygqsvj79g`](https://terrasco.pe/mainnet/address/terra1s5zft8tgddtpgqhlauyl5lt2vre9euu4exg37rkug2dv4l7leygqsvj79g)        |
-| Nico Token          | [`terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3`](https://terrasco.pe/mainnet/address/terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3)        |
-| Nico-axlUsdc Pair   | [`terra1rargvklgrh3g6950akvrz4pr8vcng2dhj7yt3p`](https://chainsco.pe/terra2/address/terra1s2txvndlu5fezsq3f7zgtrw0pk3ryw0lxq9nfgzuqr3hhlnc92xsghwnzm#!) |
+| Nico Token          | [`terra1rargvklgrh3g6950akvrz4pr8vcng2dhj7yt3p`](https://terrasco.pe/mainnet/address/terra1e0efrrrj8d55pflme3dmtyuj7klzcef5cfmz6r2jyqz77kk2jz3qa6drg3)        |
+| Nico-axlUsdc Pair   | [`terra1rargvklgrh3g6950akvrz4pr8vcng2dhj7yt3p`](https://chainsco.pe/terra2/address/terra1rargvklgrh3g6950akvrz4pr8vcng2dhj7yt3p#!) |
 
 
 
